@@ -1,4 +1,4 @@
-# MoveIt 💜
+# MoveIt 🤍
 
 &nbsp;
 
@@ -9,7 +9,7 @@
 
 ## 📚 Informações sobre o projeto
 
-* Aplicação feita durante o módulo 3 do Ignite.
+* Aplicação feita durante a NLW da Rocketseat
 * O MoveIt foi criado com o intuito de ajudar as pessoas que passam muito tempo na frente do computador, seja por trabalho ou por lazer. 
 O projeto consiste em aplicar a Técnica de Pomodoro, a técnica de pomomdoro consiste em realizar CICLOS de estudo, por exemplo, estudar com atenção tota por 25 minutos, 
 e descansar por 5.
